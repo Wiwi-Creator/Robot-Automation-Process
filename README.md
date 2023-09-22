@@ -1,4 +1,4 @@
-# Max搶票機器人
+# Goopi-robot 自動下單機器人
 Goopi-Bot是一個免費、開放原始碼的自動下單python程式。
 
 MaxBot is a FREE and open source bot program. Good luck getting your expected products.
